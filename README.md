@@ -1,5 +1,4 @@
 - 👋 Hi there
--/-/-/-/-/-/-/-/-/-/-/
 - 🔭 I’m currently working on cathook
 - 🌱 I’m currently learning c++ rust vue
 - 👯 I’m looking to collaborate on cathook
