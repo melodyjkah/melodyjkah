@@ -1,6 +1,6 @@
 - 👋 Hi there
-- 🔭 I’m currently working on cathook
-- 🌱 I’m currently learning c++ rust vue
+- 🔭 I’m currently working on TF2 COMM SERVERS
+- 🌱 I’m currently learning c++ rust svelte
 - 👯 I’m looking to collaborate on cathook
 - 🤔 I’m looking for help with cathook
 - 📫 How to reach me: my discord is "melodyhook"
