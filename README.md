@@ -1,5 +1,5 @@
 - 👋 Hi there
-- 🔭 I’m currently working on TFortress.fun
+- 🔭 I’m currently working on linux 32-bit training software for source engine
 - 🌱 I’m currently learning c++ rust svelte
 - 👯 I’m looking to collaborate on -
 - 🤔 I’m looking for help with melodyhook1
