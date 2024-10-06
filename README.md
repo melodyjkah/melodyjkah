@@ -1,7 +1,7 @@
 - 👋 Hi there
-- 🔭 I’m currently working on linux 32-bit training software for source engine
+- 🔭 I’m currently working on windows 64-bit training software for source engine
 - 🌱 I’m currently learning c++ rust svelte
-- 👯 I’m looking to collaborate on -
+- 👯 I’m looking to collaborate on awootism
 - 🤔 I’m looking for help with melodyhook1
 - 📫 How to reach me: my discord is "melodyhook"
 - 😄 Pronouns: she/her
