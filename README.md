@@ -1,8 +1,8 @@
 - 👋 Hi there
-- 🔭 I’m currently working on windows 64-bit training software for source engine
+- 🔭 I’m currently working on windows 64-bit training software for source engine named awootism
 - 🌱 I’m currently learning c++ rust svelte
 - 👯 I’m looking to collaborate on awootism
-- 🤔 I’m looking for help with melodyhook1
+- 🤔 I’m looking for help with awootism
 - 📫 How to reach me: my discord is "melodyhook"
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i love russian music when im polish
